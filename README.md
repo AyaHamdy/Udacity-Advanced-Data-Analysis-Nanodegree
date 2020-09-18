@@ -1,1 +1,1 @@
-# Udacity-Advanced-Data-Analysis-Nanodegree
+# Udacity Advanced Data Analysis Nanodegree
